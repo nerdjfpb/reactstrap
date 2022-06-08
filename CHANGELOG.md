@@ -137,6 +137,13 @@
 
 
 
+### [9.1.2](https://www.github.com/reactstrap/reactstrap/compare/v9.1.1...v9.1.2) (2022-06-08)
+
+
+### Bug Fixes
+
+* **#2545:** change proptype of Spinner size ([2175cbb](https://www.github.com/reactstrap/reactstrap/commit/2175cbb8f1df23b851a693a968021dfa8be15a7b))
+
 ### [9.1.1](https://www.github.com/reactstrap/reactstrap/compare/v9.1.0...v9.1.1) (2022-06-08)
 
 
